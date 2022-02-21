@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+input[type = "radio"]{
+  display: none;
+}
+
+h1{
+  font-size: 12px;
+}
+
+.star{
+  cursor: pointer;
+  transition: color 200ms;
+}
