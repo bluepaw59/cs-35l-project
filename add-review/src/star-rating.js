@@ -17,7 +17,6 @@ const StarRating = () => {
 
     
     
-    
     return (
 
         <div>
